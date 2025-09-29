@@ -33,15 +33,11 @@ This project provides a reusable **VBScript test automation** suite that integra
 
 ## ⚙️ Project Structure
 
-UFT_Automation/
-│
-├── UFT_Automation.vbs # Core VBScript automation file
-├── Data/ # Input data files (Excel/CSV)
-├── Reports/ # UFT-generated reports
-└── README.md # Project documentation
-
-yaml
-Copy code
+📁 TestNavigator/
+├── 📜 UFT_Automation.vbs → Core VBScript automation script
+├── 📂 Data/ → Input data files (Excel/CSV)
+├── 📂 Reports/ → UFT-generated test execution reports
+└── 📄 README.md → Project documentation
 
 ---
 
